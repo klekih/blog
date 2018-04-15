@@ -3,6 +3,7 @@ title: "biographies"
 layout: post
 ---
 
+of few software engineers <!--excerpt-->
 [Several](http://www.pgbovine.net/how-i-learned-programming.htm) [biographies](http://mattdeboard.net/2011/11/23/how-i-became-a-programmer/) I've [read](https://www.kchodorow.com/blog/2010/11/30/how-i-became-a-programmer/) [recently](https://danluu.com/learning-to-program/). Short and concise, written by people who pursued a career in programming, the narratives revolve around how their path eventually led to a job and profession in tech areas like programming and computer science. Except for [this one](https://github.com/tarmstrong/longcv/blob/master/bio.md), whose focus relies too much on lists of small and petty tech tricks achieved, without any attempt to draw some learnings or find a rationale behind the experience, the others were a good read. Especially [this one](https://danluu.com/learning-to-program/), a brilliant autobiography
 style of depicting own experiences in such a way that it attracts attention and gives back useful information.
 

@@ -3,7 +3,7 @@ title: "start"
 layout: post
 ---
 
-Well, sometime and somewhere I have to start. As an avid reader I must taste the „other” side, I must reverse, somehow, the process of reading and digesting so many wor(l)ds: fiction, science fiction, blogs, tech and software articles, tweets, feeds, posts, etc.
+well, sometime and somewhere I have to start <!--excerpt--> As an avid reader I must taste the „other” side, I must reverse, somehow, the process of reading and digesting so many wor(l)ds: fiction, science fiction, blogs, tech and software articles, tweets, feeds, posts, etc.
 
 I know I’ll always find my old writings with contempt and I know I won’t escape from this vicious circle of writing, reading, despising, writing again, …
 
