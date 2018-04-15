@@ -1,9 +1,9 @@
 ---
 title: "satanic verses"
 layout: post
+excerpt: is not what you think
 ---
 
-is not what you think <!--excerpt-->
 How to fit such a book in such a short blog post? A tumultuous story (or stories, isn't there a unifying culmination of all the narratives?) written with a hard to describe vigour and enthusiasm. It catches you, it keeps you engaged, you're reading it either with the feeling of being immersed among characters, within their world or trying to constantly focus on what's happening on so many narrative planes. Drown within so many details, you're wondering where and how do they matter. Just a little more patience, you need.
 
 I was constantly trying to figure and delimitate where the real life of the characters is and where their fictions are depicted. But it only got me more confused because there is a subtle play, a delicate fabric of all their interconnections, all the way up to the book's climax (or one of the climaxes, it depends which narrative is about) where the main characters meet and greet each other.

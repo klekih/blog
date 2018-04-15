@@ -1,9 +1,8 @@
 ---
 title: "fortress at the end of time"
 layout: post
+excerpt: a short science-fiction novel
 ---
-
-a short science-fiction novel <!--excerpt-->
 
 A dense writing style, "The fortress at the end of time" is a story about a desperate and lonely life somewhere at the end of the entire society (or the end of the universe). That end where you have no friends but neither enemies. Each one on his own. Now is a friend, tomorrow is ignoring you. 
 
