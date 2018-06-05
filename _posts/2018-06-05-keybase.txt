@@ -4,7 +4,6 @@ permalink: /keybase.txt
 excerpt: proof
 layout: null
 ---
-
 ==================================================================
 https://keybase.io/klekih
 --------------------------------------------------------------------
@@ -27,13 +26,13 @@ To do so, I am signing this object:
       "username": "klekih"
     },
     "merkle_root": {
-      "ctime": 1528228585,
-      "hash": "115f4f76cc4eaf898e8344ba01d75598dfd65660282d27757c135c84110e970500586389d8d091762c9946e5783232014483e1cdc821ffcb839389430affbef6",
-      "hash_meta": "5ffd9dffaac3af96191676564e3585e0bbe54c31a73c5f43b03a0a7d8c4d7479",
-      "seqno": 3015561
+      "ctime": 1528230353,
+      "hash": "178e07d405eaf6ddefe67cb4bdcae2f810f271323d0591dbfa3ce198227e017c67f83c357366be8a0df90b54c1f1248a1515e82b0652eff98aabbef2ed58ca5b",
+      "hash_meta": "ca9e2416dc6eca780eaa9e8853cc020be3822756d270a2842d7409436a80ae43",
+      "seqno": 3017392
     },
     "service": {
-      "entropy": "9sx2UZcIGvw7WTOvoArHUKXS",
+      "entropy": "iA+Hba97CA02qi1W2sPV3kY1",
       "hostname": "klekih.github.io",
       "protocol": "https:"
     },
@@ -44,16 +43,16 @@ To do so, I am signing this object:
     "name": "keybase.io go client",
     "version": "1.0.48"
   },
-  "ctime": 1528228639,
+  "ctime": 1528230368,
   "expire_in": 504576000,
-  "prev": "35d7d3e033b2e406ccb96d75ea584455e0d8c0b517756316a00c876d1b96ec5d",
-  "seqno": 21,
+  "prev": "05acf4f38c76665e048ba7fb38b6fb7cf4f62312c879db8f03b3d35cff1660c9",
+  "seqno": 25,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwnTqZAY1um1QgvEi2qYjwBHVPRGA+fxl0K8zrfyf3KwKp3BheWxvYWTESpcCFcQgNdfT4DOy5AbMuW116lhEVeDYwLUXdWMWoAyHbRuW7F3EIE7AjtfH/oQ+zvu0dDgDGN3Rz/9L4aAoUrVRAJ8RdTQWAgHCo3NpZ8RAuKMtSmXzz4B9bqa2pPZeWxl0fKOQH0GvZPRvN1SGWJ72wS31D2hWsfKwvm4h/7jZISXSVyJVI6LGiisgEKQmDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILBrlHMgCrOXbN61zdEinnH2a5CSePqssJDXXn4q3NBbo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwnTqZAY1um1QgvEi2qYjwBHVPRGA+fxl0K8zrfyf3KwKp3BheWxvYWTESpcCGcQgBaz084x2Zl4Ei6f7OLb7fPT2IxLIeduPA7PTXP8WYMnEIKwKDpCSKJw9Hzq4cYPO1GSRxEt2xhTQm7kMY0Y4xamsAgHCo3NpZ8RArj6NUW2krk8TGOLiqhUqQoqPJi9RV4DFVUVV8ja9n80DUqUUmY/UcUcoaICm5njRxsOIrowFMv+wcNpfgj3nB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFxjgmKtBT9XsQHJb2Jj+UTvWvhxOFb3vw/iGfBY8J5Ro3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
