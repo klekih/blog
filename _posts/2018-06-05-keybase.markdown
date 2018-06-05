@@ -2,6 +2,7 @@
 title: Keybase
 permalink: /keybase.txt
 excerpt: proof
+layout: null
 ---
 
 ==================================================================
