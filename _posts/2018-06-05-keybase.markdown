@@ -1,6 +1,6 @@
 ---
 title: Keybase
-permalink: /keybase.txt/
+permalink: /keybase.txt
 excerpt: proof
 ---
 
