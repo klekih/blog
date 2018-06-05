@@ -1,0 +1,62 @@
+---
+title: Keybase
+permalink: /keybase.txt/
+excerpt: proof
+---
+
+==================================================================
+https://keybase.io/klekih
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://klekih.github.io
+  * I am klekih (https://keybase.io/klekih) on keybase.
+  * I have a public key ASDCdOpkBjW6bVCC8SLapiPAEdU9EYD5_GXQrzOt_J_crAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c274ea640635ba6d5082f122daa623c011d53d1180f9fc65d0af33adfc9fdcac0a",
+      "host": "keybase.io",
+      "kid": "0120c274ea640635ba6d5082f122daa623c011d53d1180f9fc65d0af33adfc9fdcac0a",
+      "uid": "ca375996154ef64c60d43dde797ef119",
+      "username": "klekih"
+    },
+    "merkle_root": {
+      "ctime": 1528228585,
+      "hash": "115f4f76cc4eaf898e8344ba01d75598dfd65660282d27757c135c84110e970500586389d8d091762c9946e5783232014483e1cdc821ffcb839389430affbef6",
+      "hash_meta": "5ffd9dffaac3af96191676564e3585e0bbe54c31a73c5f43b03a0a7d8c4d7479",
+      "seqno": 3015561
+    },
+    "service": {
+      "entropy": "9sx2UZcIGvw7WTOvoArHUKXS",
+      "hostname": "klekih.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.48"
+  },
+  "ctime": 1528228639,
+  "expire_in": 504576000,
+  "prev": "35d7d3e033b2e406ccb96d75ea584455e0d8c0b517756316a00c876d1b96ec5d",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwnTqZAY1um1QgvEi2qYjwBHVPRGA+fxl0K8zrfyf3KwKp3BheWxvYWTESpcCFcQgNdfT4DOy5AbMuW116lhEVeDYwLUXdWMWoAyHbRuW7F3EIE7AjtfH/oQ+zvu0dDgDGN3Rz/9L4aAoUrVRAJ8RdTQWAgHCo3NpZ8RAuKMtSmXzz4B9bqa2pPZeWxl0fKOQH0GvZPRvN1SGWJ72wS31D2hWsfKwvm4h/7jZISXSVyJVI6LGiisgEKQmDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILBrlHMgCrOXbN61zdEinnH2a5CSePqssJDXXn4q3NBbo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/klekih
+
+==================================================================
